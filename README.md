@@ -15,9 +15,9 @@ When I'm not arguing with compiler error messages, I'm usually grinding universi
 
 ## Schools
 
-- **EPITA**
-- **ENAC**
-- **CSUMB**
+- **EPITA** - Toulouse, France / Paris, France
+- **ENAC** - Toulouse, France
+- **CSUMB** - Seaside, CA, USA
 
 ## what i've been up to lately
 
