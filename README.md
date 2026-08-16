@@ -27,9 +27,15 @@ nothing fancy, just the usual chaos — trying to master low-level memory manage
 
 - **CPU:** Intel Core i7 13700KF
 - **GPU:** Nvidia GeForce RTX 4090 Palit GameRock OC
-- **RAM:** Corsair Vengeance 2*24GB DDR5 6800MHz
+- **RAM:** Corsair Vengeance 2*24GB DDR5 7,000MHz
+- **AIO:** MSI MAG CoreLiquid 360R v2
+- **PSU:** BeQuiet Pure Power 13M 1kW 80+Gold
+- **CASE:** Corsair 4000D RGB
 - **KB:** Corsair K100 Gold RGB
-
+- **MS:** Razer Naga Pro v2
+- **MIC:** Razer Seiren v3 Pro
+- **HDPH:** Corsair Virtuoso XT RGB
+ 
 ## find me / bother me
 
 [everything in general](https://linktr.ee/byfrost)
