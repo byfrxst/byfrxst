@@ -27,7 +27,7 @@ nothing fancy, just the usual chaos — trying to master low-level memory manage
 
 - **CPU:** Intel Core i7 13700KF (don't worry it does the job very well)
 - **GPU:** Nvidia GeForce RTX 4090 Palit GameRock OC (biggest flex)
-- **RAM:** Corsair Vengeance 2x24GB DDR5 7,000MHz (real biggest flex lol)
+- **RAM:** Corsair Vengeance 2x24GB DDR5 7,000MHz (actual biggest flex lol)
 - **AIO:** MSI MAG CoreLiquid 360R v2
 - **PSU:** BeQuiet Pure Power 13M 1kW 80+Gold
 - **CASE:** Corsair 4000D RGB
