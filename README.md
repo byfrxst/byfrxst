@@ -25,14 +25,14 @@ nothing fancy, just the usual chaos — trying to master low-level memory manage
 
 ## My PC I'm very proud of
 
-- **CPU:** Intel Core i7 13700KF
-- **GPU:** Nvidia GeForce RTX 4090 Palit GameRock OC
-- **RAM:** Corsair Vengeance 2*24GB DDR5 7,000MHz
+- **CPU:** Intel Core i7 13700KF (don't worry it does the job very well)
+- **GPU:** Nvidia GeForce RTX 4090 Palit GameRock OC (biggest flex)
+- **RAM:** Corsair Vengeance 2x24GB DDR5 7,000MHz (real biggest flex lol)
 - **AIO:** MSI MAG CoreLiquid 360R v2
 - **PSU:** BeQuiet Pure Power 13M 1kW 80+Gold
 - **CASE:** Corsair 4000D RGB
-- **KB:** Corsair K100 Gold RGB
-- **MS:** Razer Naga Pro v2
+- **KB:** Corsair K100 Gold RGB (yes this is the one you are thinking about)
+- **MS:** Razer Naga Pro v2 (more buttons = more fps ??)
 - **MIC:** Razer Seiren v3 Pro
 - **HDPH:** Corsair Virtuoso XT RGB
  
